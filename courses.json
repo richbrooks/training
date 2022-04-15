@@ -13,10 +13,12 @@
       ":type": "text"
     }
   },
-  "custom-list": {
-    ":items": {
-      "custom-list-item": {
-        ":type": "line"
+  "courses": {
+    ":courses": {
+      "course": {
+        ":courseKey": "PL-300",
+        ":name":"Analyzing Data with Power BI",
+         ":type": "text"
       }
     }
   }
